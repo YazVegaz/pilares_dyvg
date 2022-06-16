@@ -1,0 +1,15 @@
+<!DOCTYPE html>	
+	<html lang= 'es-MX'> <!-- Esto es una prueba-->
+	<head>
+	<title> Mi primer página </title>
+		<meta charset= 'utf-8'>
+
+		</head>
+	<body>
+		<h1 style='color:#FF55B8'> ALO ¡MUNDO! 
+		Diana Yazmín
+		</h1>
+		<img src='img/pexels.jpg' style='width:1200px'>
+		
+	</body>
+</html>
